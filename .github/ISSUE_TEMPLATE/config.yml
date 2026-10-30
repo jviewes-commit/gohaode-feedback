@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "📧 Email the GoHaode team"
+    url: mailto:support@gohaode.com
+    about: "For anything private, or if you don't have a GitHub account. Never send your passport number."
+  - name: "🚀 Open GoHaode"
+    url: https://gohaode.com
+    about: "The free, offline-first China survival kit for foreign visitors."
